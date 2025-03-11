@@ -87,6 +87,7 @@ int main(void)
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
   printf("hello world!");
+  printf("hello end!");
   /* USER CODE END 2 */
 
   /* Infinite loop */
