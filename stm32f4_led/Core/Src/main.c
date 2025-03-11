@@ -92,6 +92,7 @@ int main(void)
   printf("start 3");
   printf("start 4");
   printf("start 5");
+  printf("start 6");
   /* USER CODE END 2 */
 
   /* Infinite loop */
