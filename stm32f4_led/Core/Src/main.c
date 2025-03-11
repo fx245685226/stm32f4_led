@@ -88,6 +88,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
   printf("hello world!");
   printf("hello end!");
+  printf("start 2");
   /* USER CODE END 2 */
 
   /* Infinite loop */
