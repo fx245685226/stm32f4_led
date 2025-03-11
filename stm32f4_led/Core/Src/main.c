@@ -94,6 +94,7 @@ int main(void)
   printf("start 5");
   printf("start 6");
   printf("start 8");
+  printf("start 9");
   /* USER CODE END 2 */
 
   /* Infinite loop */
