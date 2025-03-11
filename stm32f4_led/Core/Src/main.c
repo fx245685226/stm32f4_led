@@ -89,6 +89,7 @@ int main(void)
   printf("hello world!");
   printf("hello end!");
   printf("start 2");
+  printf("start 3");
   /* USER CODE END 2 */
 
   /* Infinite loop */
